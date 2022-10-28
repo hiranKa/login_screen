@@ -1,16 +1,5 @@
-# login_authentication
+this Login Screen was created using Flutter.
+in this UI basic flutter widgets like Column, Row, Containers, text and text fields are used. 
+Please find the below mentioned screen shot of the UI.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1666951582](https://user-images.githubusercontent.com/108503164/198562176-5ab1c77b-6570-4eaa-8b9c-658027124a5d.png)
